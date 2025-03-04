@@ -13,7 +13,7 @@
 
 - 👨‍💻 I’m looking for help with **Improving my knowledge and skills in advanced FullStack web development**
 
-- 👨‍💻 All of my projects are available at [https://deje-portfolio.vercel.app](https://dejuportfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://deje-portfolio.vercel.app)
 
 - 💬 Ask me about **My experience with full stack development**
 
